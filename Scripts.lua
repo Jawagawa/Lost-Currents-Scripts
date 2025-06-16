@@ -20,3 +20,4 @@ game:GetService("ReplicatedStorage").StormDisable:FireServer()
 
 
 
+# Exploit santa is coming
