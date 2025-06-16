@@ -1,4 +1,4 @@
-Hint its not luan :fire:
+Ill give u one hint the user starts with a 0
 
 
 -- Select class
