@@ -29,6 +29,11 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BigBoyTimme/New.Loadstring.Scripts/refs/heads/main/Dex.Explorer"))()
 
+# Fly
+
+loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Fly.txt"))()
+
+
 # Exploit santa is here :fire:
 
 
