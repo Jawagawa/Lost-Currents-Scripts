@@ -1,4 +1,4 @@
-# EDUCATIONAL PUPROSES ONLY
+# EDUCATIONAL PUPROSES ONLY (EXPLOIT)
 
 # Lost Currents Exploit Educational Repo
 
