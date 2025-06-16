@@ -1,46 +1,18 @@
-ah! i love u :D i am a girl btw
+-- Select classAdd commentMore actions
+local args = { [1] = "Builder" }
+game:GetService("ReplicatedStorage").SelectedClass:FireServer(unpack(args))
 
-ah! i love u :D i am a girl btw
+-- Return to lobby
+game:GetService("ReplicatedStorage").ReturnToLobby:FireServer()
 
-ah! i love u :D i am a girl btw
+-- Disable storms
+game:GetService("ReplicatedStorage").StormDisable:FireServer()
 
-ah! i love u :D i am a girl btw
+-- Infinite Yield (Admin Commands)More actions
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source", true))()
 
-ah! i love u :D i am a girl btw
+-- Dex Explorer
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BigBoyTimme/New.Loadstring.Scripts/refs/heads/main/Dex.Explorer", true))()
 
-ah! i love u :D i am a girl btw
-
-ah! i love u :D i am a girl btw
-
-ah! i love u :D i am a girl btw
-
-ah! i love u :D i am a girl btw
-
-ah! i love u :D i am a girl btw
-
-ah! i love u :D i am a girl btw
-
-ah! i love u :D i am a girl btw
-
-ah! i love u :D i am a girl btw
-
-ah! i love u :D i am a girl btw
-
-ah! i love u :D i am a girl btw
-
-ah! i love u :D i am a girl btw
-
-ah! i love u :D i am a girl btw
-
-ah! i love u :D i am a girl btw
-
-ah! i love u :D i am a girl btw
-
-ah! i love u :D i am a girl btw
-
-ah! i love u :D i am a girl btw
-
-ah! i love u :D i am a girl btw
-
-ah! i love u :D i am a girl btw
-
+-- Fly script
+loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Fly.txt", true))()
