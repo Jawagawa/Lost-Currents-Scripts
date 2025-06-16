@@ -23,3 +23,16 @@ game:GetService("ReplicatedStorage").StormDisable:FireServer()
 # Infinite Yield
 
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
+
+
+# Dex
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BigBoyTimme/New.Loadstring.Scripts/refs/heads/main/Dex.Explorer"))()
+
+
+
+# BEST EXECUTORS TO USE FOR THESE SCRIPTS:
+
+XENO
+SOLARA
+AWP
