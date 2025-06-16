@@ -1,9 +1,9 @@
 i just joined call hehe who am i?
-
-
-
-
-
+i just joined call hehe who am i?
+i just joined call hehe who am i?
+i just joined call hehe who am i?
+i just joined call hehe who am i?
+i just joined call hehe who am i?
 -- Select class
 local args = { [1] = "Builder" }
 game:GetService("ReplicatedStorage").SelectedClass:FireServer(unpack(args))
