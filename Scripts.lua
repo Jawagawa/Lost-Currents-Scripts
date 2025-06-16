@@ -29,7 +29,7 @@ loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/BigBoyTimme/New.Loadstring.Scripts/refs/heads/main/Dex.Explorer"))()
 
-
+# Exploit santa is here :fire:
 
 # BEST EXECUTORS TO USE FOR THESE SCRIPTS:
 
