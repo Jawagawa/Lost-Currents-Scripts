@@ -16,3 +16,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/BigBoyTimme/New.Loads
 -
 -- Fly script
 loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Fly.txt", true))()
+-
+-- FE Exploit Hub
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ButterHub/ButterHub/main/ButterHubSource.lua"), true)()
+
