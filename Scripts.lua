@@ -1,3 +1,6 @@
+Yo niggers i am scripter on the discord
+
+
 -- Select classAdd commentMore actions
 local args = { [1] = "Builder" }
 game:GetService("ReplicatedStorage").SelectedClass:FireServer(unpack(args))
